@@ -27,4 +27,5 @@ def simple_file_processor():
         print(f"Error: {e}")
 
 # Run the simple version
+
 simple_file_processor()
