@@ -1,0 +1,5 @@
+Hello World!
+This is a test file.
+Python file handling is awesome.
+Line number four for testing.
+Another line to demonstrate the program.
